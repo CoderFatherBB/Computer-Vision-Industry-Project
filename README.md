@@ -1,20 +1,40 @@
 <div align="center">
-  <h1 align="center">Enterprise Computer Vision Pipeline 👁️</h1>
-  <p align="center"><strong>Industrial Object Detection & Quality Assurance</strong></p>
+  <h1>Computer Vision Industry Project</h1>
+  <p><strong>Industrial object detection work for Automax Robotics Pvt. Ltd. focused on accurate object counting.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Computer-Vision-Industry-Project?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Computer-Vision-Industry-Project?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
-## 📖 Overview
-A comprehensive B2B Computer Vision solution designed for industrial applications. This project demonstrates high-throughput video processing, real-time object classification, and automated quality control capable of integrating directly into manufacturing lines.
+## About
 
-## ✨ Core Features
-- **Real-Time Video Inference**: Processes high-definition video streams with sub-millisecond latency.
-- **Defect Detection**: Identifies micro-anomalies in industrial outputs.
-- **Production Analytics**: Generates real-time statistical reports on throughput and error rates.
+This project was built for Automax Robotics Pvt. Ltd., Pune, Maharashtra, India. The goal was to develop an object detection model that can count objects accurately from industrial video data.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Repository Map
+
+- `Training/`: frame extraction script, training notebook, and model run outputs.
+- `Input Videos/`: input footage.
+- `Test Video/`: test video.
+- `Output.mp4`: generated output video.
+- `Certificate Automax.pdf`: project certificate/proof artifact.
+
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/CoderFatherBB/Computer-Vision-Industry-Project.git
+cd Computer-Vision-Industry-Project
+```
+
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
+
+
+## Author
+
+**Bhavin Baldota**
+
+- LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
+- GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
